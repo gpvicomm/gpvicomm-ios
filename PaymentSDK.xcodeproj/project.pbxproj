@@ -21,7 +21,6 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		0B693CF426E820F900637A71 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B693CF326E820F900637A71 /* Info.plist */; };
 		14BEEED4258C74C7007B52E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BEEED3258C74C7007B52E1 /* AppDelegate.swift */; };
 		14BEEED6258C74C7007B52E1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BEEED5258C74C7007B52E1 /* SceneDelegate.swift */; };
 		14BEEED8258C74C7007B52E1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BEEED7258C74C7007B52E1 /* ViewController.swift */; };
@@ -121,7 +120,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0B693CF326E820F900637A71 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14BEEED1258C74C7007B52E1 /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14BEEED3258C74C7007B52E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14BEEED5258C74C7007B52E1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -293,7 +291,6 @@
 		409158FA1CE1A09000FE316B /* PaymentSDK */ = {
 			isa = PBXGroup;
 			children = (
-				0B693CF326E820F900637A71 /* Info.plist */,
 				658A2DC21FE8325E00B154E6 /* install_dynamic.sh */,
 				65DA34E51FCF7748005FA69C /* InputMask */,
 				65AF51CF1F5F246200E7B4CB /* lang */,
@@ -536,7 +533,6 @@
 			files = (
 				658A2DC31FE8325F00B154E6 /* install_dynamic.sh in Resources */,
 				402544CC1CE3E06A00F35B23 /* PaymentAddViewController.xib in Resources */,
-				0B693CF426E820F900637A71 /* Info.plist in Resources */,
 				655DA8101F74D66700099869 /* Localizable.strings in Resources */,
 				6529279B1F58B045004A7D4C /* PaymentAssets.xcassets in Resources */,
 				652927961F587136004A7D4C /* PaymentAddNativeViewController.xib in Resources */,
