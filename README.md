@@ -89,7 +89,7 @@ After
 - Inside the the directory of PaymentSDK.framework, CMD+up
 - You can see three groups, inside the group Release-iosuniversal, you'll find the PaymentSDK.framework
 
-- Or if you prefer you can download pre-compilled .framework files from [Releases](https://github.com/afirme-shieldgate/afirme-shieldgate-ios)
+- Or if you prefer you can download pre-compilled .framework files from [Releases](https://github.com/gpvicomm/gpvicomm-ios/releases/)
 
 
 2. Drag the PaymentSDK.framework To your project and check "Copy Files if needed".
